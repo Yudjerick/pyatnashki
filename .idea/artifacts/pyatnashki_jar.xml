@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="pyatnashki:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/pyatnashki_jar</output-path>
+    <root id="archive" name="swingtest.jar">
+      <element id="module-output" name="swingtest" />
+    </root>
+  </artifact>
+</component>
